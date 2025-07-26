@@ -24,9 +24,9 @@ console.log(product)
           <h1>item</h1>
             </div>
             <div className='flex w-1/2 justify-between '>
-            <h1>current bid</h1>
-            <h1>time left</h1>
-            <h1>bid now</h1>
+            <h1 className='text-sm text-red-500'>current bid</h1>
+            <h1 className='text-sm'>time left</h1>
+            <h1 className='text-sm'>bid now</h1>
             </div>
           </div>
  
