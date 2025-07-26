@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leica M3 Camera",
+    "description": "A rare vintage camera from the 19th century.",
+    "currentBidPrice": 1250,
+    "timeLeft": "2h 30m",
+    "bidsCount": 12,
+    "picture": "https://i.postimg.cc/YCvFbK1B/Bid1-min.png"
+  
+  },
+  {
+    "id": 2,
+    "title": " Gibson SG Standard Electric Guitar",
+    "description": "1965 Gibson SG Standard Electric Guitar",
+    "currentBidPrice": 3400,
+    "timeLeft": "5h 15m",
+    "bidsCount": 25,
+    "picture": "https://i.postimg.cc/9XyK09kV/Bid2-min.png"
+   
+  },
+  {
+    "id": 3,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "Original Apple Macintosh 128K (1984)",
+    "currentBidPrice": 7800,
+    "timeLeft": "1d 4h",
+    "bidsCount": 31,
+    "picture": "https://i.postimg.cc/CxxQcQxL/Bid3-min.png"
+   
+  },
+   {
+    "id": 4,
+    "title": "CRIS JALI WOODEN CHAIR",
+    "description": "Rolex Submariner 16610",
+    "currentBidPrice": 4800,
+    "timeLeft": "1d 4h",
+    "bidsCount": 31,
+    "picture": "https://i.postimg.cc/sx0hsx7L/Bid5-min.png"
+   
+  },
+   {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby'",
+    "description": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "currentBidPrice": 8800,
+    "timeLeft": "1d 4h",
+    "bidsCount": 31,
+    "picture": "https://i.postimg.cc/5y9BfDGX/Bid6-min.png"
+   
+  },
+   {
+    "id": 6,
+    "title": "Banksy Original Screen Print",
+    "description": "Banksy Original Screen Print",
+    "currentBidPrice": 7800,
+    "timeLeft": "1d 4h",
+    "bidsCount": 31,
+    "picture": "https://i.postimg.cc/BZhDxYkC/Bid7-min.png"
+  },
+      {
+    "id": 7,
+    "title": "Rolex Submariner 16610",
+    "description": "Rolex Submariner 16610",
+    "currentBidPrice": 9000,
+    "timeLeft": "1d 4h",
+    "bidsCount": 31,
+    "picture": "https://i.postimg.cc/GmMhfVPM/Bid4-min.png"
+  }
+]
